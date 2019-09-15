@@ -1,0 +1,8 @@
+2019-09-09 00:25:55,374 - nopComemrce -INFO - ******** Launching browser*********
+2019-09-09 00:25:55,378 - nopComemrce -INFO - ******** Opening URL*********
+2019-09-09 00:25:58,446 - nopComemrce -INFO - ******** Providing login details*********
+2019-09-09 00:25:58,731 - nopComemrce -INFO - ******** started login*********
+2019-09-09 00:26:05,170 - nopComemrce -INFO - ******** Login Passed*********
+2019-09-09 00:26:08,177 - nopComemrce -INFO - ******** Click on logout link*********
+2019-09-09 00:26:14,110 - nopComemrce -INFO - ******** Login Passed*********
+2019-09-09 00:26:17,126 - nopComemrce -INFO - ********closing browser********
